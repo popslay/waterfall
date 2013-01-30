@@ -8,9 +8,9 @@
  *
  * To use, create a bookmark with the script below in, load a page, click the bookmark
  *
- * javascript:(function(){var el=document.createElement('script');el.type='text/javascript';el.src='http://andydavies.me/sandbox/waterfall.js';document.getElementsByTagName('body')[0].appendChild(el);})();
+ * 
  */
-
+javascript:(function(){var el=document.createElement('script');el.type='text/javascript';el.src='http://andydavies.me/sandbox/waterfall.js';document.getElementsByTagName('body')[0].appendChild(el);})();
 (function waterfall() {
 
 	var xmlns = "http://www.w3.org/2000/svg";
